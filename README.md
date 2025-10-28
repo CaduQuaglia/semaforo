@@ -3,6 +3,10 @@ Foram utilizados cabos jumper e a protoboard para conectar a porta GND do arduin
 
 Para o positivo, conecta-se a porta 11, 12, 13 do arduino as pernas positivas dos leds, passando por um resistor de 330 Ω. 
 
+<p align="center">
+  <img src="./assets/foto.jpeg" alt="Alt text" width="60%">
+</p>
+
 ## Componentes Utilizados
 
 | Item | Descrição   | Especificação   | Quantidade |
@@ -37,3 +41,6 @@ Pontuação Total: 12
 | Ir além: Implementou um componente de extra, fez com `millis()` ao invés do `delay()` e/ou usou ponteiros no código | 3 | |
 
 Pontuação Total: 12
+
+## Vídeo
+https://drive.google.com/file/d/1TRP6eUwosEeT0JssWQm_YlEyN5wOXojr/view?usp=sharing
