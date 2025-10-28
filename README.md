@@ -4,7 +4,7 @@ Foram utilizados cabos jumper e a protoboard para conectar a porta GND do arduin
 Para o positivo, conecta-se a porta 11, 12, 13 do arduino as pernas positivas dos leds, passando por um resistor de 330 Ω. 
 
 <p align="center">
-  <img src="./assets/foto.jpeg" alt="Alt text" width="60%">
+  <img src="./assets/foto.jpeg" alt="Foto do Semaforo" width="60%">
 </p>
 
 ## Componentes Utilizados
